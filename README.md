@@ -10,8 +10,9 @@
 #
 ## Retorno.
   Essa seleção nos permitirá analisar todas as vendas mensais por CPF e rapidamente avaliar quais delas estavam dentro do limite de cada cliente. Por exemplo, veremos que Fernando Cavalcante realizou várias compras inválidas mas, ao mesmo tempo, ele tinha um limite menor que o de Érica Carvalho.
- 
-<img width="441" alt="Retorno" src="https://github.com/Simeaojs/projeto_MySQL/assets/126496806/7b3a6bc5-a3f8-4fa7-ac1e-dcdda808189d">
+
+
+<img width="457" alt="Retorno" src="https://github.com/Simeaojs/projeto_MySQL/assets/126496806/8c03fd6b-b3e1-4aa1-a825-661d38eac5dd">
 
 
 
