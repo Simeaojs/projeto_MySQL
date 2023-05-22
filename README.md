@@ -1,4 +1,5 @@
  # *Projeto_MySQL* 
+ ### Relatório de Vendas Válidas!
 #
   Para atender a um pedido do gerente de vendas de uma empresa de sucos: ele solicitou um relatório para evidenciar, dentre todas as vendas realizadas, quais foram válidas e quais foram inválidas.
 
@@ -13,3 +14,5 @@
 Desse modo, conseguimos reunir em uma consulta todos os dados pertinentes para o relatório que foi solicitado pelo gerente de vendas.
 
 <img width="441" alt="Captura de tela 2023-05-22 172410" src="https://github.com/Simeaojs/projeto_MySQL/assets/126496806/94f7826f-7a1c-44c2-a2f4-1e1b8e689ec3">
+
+### Projeto feito na aula 06.Exemplos de Relatórios da Escola Alura!
