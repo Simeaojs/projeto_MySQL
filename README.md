@@ -5,6 +5,7 @@
 ## Código Utilizado para Fazer a Consulta.
 <img width="884" alt="Captura de tela 2023-05-22 172134" src="https://github.com/Simeaojs/projeto_MySQL/assets/126496806/43b47aa3-2f3d-4e61-9f6f-f6cd342b099d">
 
+
 #
 ## Retorno.
   Essa seleção nos permitirá analisar todas as vendas mensais por CPF e rapidamente avaliar quais delas estavam dentro do limite de cada cliente. Por exemplo, veremos que Fernando Cavalcante realizou várias compras inválidas mas, ao mesmo tempo, ele tinha um limite menor que o de Érica Carvalho.
