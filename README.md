@@ -1,5 +1,5 @@
  # *Projeto_MySQL* 
- ## Relatório de Vendas Válidas!
+ ## Relatório de Vendas!
 #
   Para atender a um pedido do gerente de vendas de uma empresa de sucos: ele solicitou um relatório para evidenciar, dentre todas as vendas realizadas, quais foram válidas e quais foram inválidas.
 
